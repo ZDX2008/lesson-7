@@ -172,14 +172,16 @@
 #   percentage = rawscore
 
 # task 18
-# def farmer(price,years):
-#     Total=0
-#     for farmer in range(1,15,5):
-#         Total+=500*farmer
-#     print("he earn",Total)
+def farmer(price,years):
+    Total=0
+    for farmer in range(1,15,5):
+        Total+=500*farmer
+    print("he earn",Total)
   
-# farmer(1000,15)
-# farmer(950,10)
-# farmer(1050,5)
+farmer(1000,15)
+farmer(950,10)
+farmer(1050,5)
 
 #task 19
+
+# print("For Company","Johan will need to pay $","in the month of",)
